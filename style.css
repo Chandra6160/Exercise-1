@@ -1,0 +1,20 @@
+
+
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+  .bg {
+    background-image: url("https://thewallpaper.co//wp-content/uploads/2016/10preview/full-hd-all-white-background-download-high-definiton-wallpapers-amazing-free-download-wallpapers-hi-res-quality-images-best-artwork-1920x1080.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .sign_in{
+    background-image: url("https://image.freepik.com/free-vector/blue-abstract-acrylic-brush-stroke-textured-background_53876-86373.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
